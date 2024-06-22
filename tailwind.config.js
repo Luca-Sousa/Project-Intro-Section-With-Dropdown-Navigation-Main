@@ -7,6 +7,7 @@ module.exports = {
         "col-AW": "hsl(0, 0%, 98%)",
         "col-MG": "hsl(0, 0%, 41%)",
         "col-AB": "hsl(0, 0%, 8%)",
+        "col-MB": "rgb(80,80,80)",
       },
       fontFamily: {
         "Epilogue": "Epilogue",
@@ -16,9 +17,9 @@ module.exports = {
       },
       screens: {
         "dk": "1440px",
+        "xs": "520px",
       }
     },
   },
   plugins: [],
 }
-
